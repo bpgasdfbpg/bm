@@ -1,0 +1,20 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: Project 1
+  description: My first project
+  date: 4/1/2017
+  time: 12:00 AM
+  volunteer_count: 0
+  volunteers_needed: 1
+  user_id: 1
+
+two:
+  name: MyString
+  description: MyString
+  date: MyString
+  time: MyString
+  volunteer_count: 1
+  volunteers_needed: 1
+  user_id: 1
